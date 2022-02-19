@@ -36,5 +36,6 @@
     "mocha": "^2.3.4",
     "should": "^8.2.0",
     "sinon": "^1.17.2"
-  }
+  },
+  "packageManager": "yarn@3.1.1"
 }
